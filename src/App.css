@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 5px;
+    /* background-color: #eaf2f8; */
+   
+  }
+  .topheading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    letter-spacing: 0.5px;
+   
+  }
+  .topheading p {
+    color: #f5b041;
+    background-color: #fae5d3;
+    padding: 10px;
+  }
+  
